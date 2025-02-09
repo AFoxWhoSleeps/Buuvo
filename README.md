@@ -22,4 +22,4 @@ OUTPUT:
 - ![image](https://github.com/user-attachments/assets/85cead37-f08f-45c0-b2c4-f66eeef44969)
 
 Love this project? Consider supporting its development with a small donation via the link below:
-- https://buymeacoffee.com/afoxwhosleeps
+- buymeacoffee.com/kibou
